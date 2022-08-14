@@ -1,0 +1,19 @@
+{
+  "name": "hw1-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/yashchenkov/ExpressJS-1-1.git",
+  "bin": {
+    "current": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "yargs": "^17.5.1"
+  }
+}
